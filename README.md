@@ -1,13 +1,15 @@
-# HomePage - Component React + TypeScript + Vite
+# Micro FrontEnd - HomePage - Component React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 👾 Desenvolvedores
+- 👦🏽 [Matheus Hugolini](https://github.com/mathugolini)
+- 👩🏽 [Aline Vieira](https://github.com/opalinoca)
 
-Currently, two official plugins are available:
+  The project scope is to add and create micro-components - home - header - footer components and expose, remote and import on a microfrontend architecture.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📚 Documentation 
 
-## Expanding the ESLint configuration
+- https://vitejs.dev/guide/
+- https://tailwindcss.com/docs/guides/vite
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
